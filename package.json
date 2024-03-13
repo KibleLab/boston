@@ -1,0 +1,9 @@
+{
+  "name": "boston",
+  "license": "MIT",
+  "workspaces": [
+    "pos/*",
+    "api/*",
+    "mobile/*"
+  ]
+}
